@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity Lifecycle</string>
+    <string name="enter_something_here">Enter something here</string>
+
+    <string name="shared_preferance">MainActivity</string>
+    <string name="submit">Submit</string>
+    <string name="hii">Hii</string>
+    <string name="sign_in">Sign in</string>
+    <string name="discription">Discription:</string>
+    <string name="description">Description:</string>
+    <string name="text_you_have_entered_on_the_previous_activity_appears_below">Text you have entered on the previous activity appears below:</string>
+    <string name="username">Username</string>
+    <string name="hi_admin">Hi Admin!</string>
+</resources>
